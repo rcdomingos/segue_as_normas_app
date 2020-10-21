@@ -1,6 +1,6 @@
 # segue_as_normas_app
 
-App em Flutter Desenvolvido para aula de Dispositivos Moveis 2.
+App em Flutter Desenvolvido para aula de Dispositivos Moveis 2 - FATEC SR.
 
 ## Objetivo
 
