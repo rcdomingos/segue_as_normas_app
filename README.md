@@ -1,6 +1,13 @@
 # segue_as_normas_app
 
-A new Flutter project.
+App em Flutter Desenvolvido para aula de Dispositivos Moveis 2.
+
+## Objetivo
+
+O objetivo do projeto é desenvolver app para informar a nota e classificação dos estabelecimentos em relação as medidas de segurança tomadas para prevenção do Covid-19.
+A ideia é de os próprios usuários utilizarem o aplicativo para avaliar e comentar sobre o lugar, orientando e ajudando os outros usuários sobre estabelecimentos seguros e inseguros para a saúde.
+
+O app utiliza o recurso de localização para listar lugares mais próximos e a distância em relação ao usuário.
 
 ## Getting Started
 

@@ -1,4 +1,3 @@
-import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:segue_as_normas_app/core/models/place.dart';
 import 'package:segue_as_normas_app/core/services/api.dart';

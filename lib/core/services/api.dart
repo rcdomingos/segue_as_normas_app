@@ -9,7 +9,7 @@ const String SERVER_URL = 'http://192.168.1.16:3001/api/v1';
 class Api {
   Dio dio = new Dio();
 
-  ///buscar todos os lugares
+  ///buscar todos os lugares cadastrados na base
   Future<List<Place>> getAllPlaces() async {
     try {
       var url = '$SERVER_URL/places/';
